@@ -25,7 +25,7 @@ This program is written in Java. This object oriented language is suitable for t
 ## 3. Running the program
   
 * 3.1 Compile and run the main program
-     To compile, download the source code, put it under your chosen directory **<your path>**
+     To compile, download the source code, unzip, and put the entire directory <ccp-master> under your chosen directory **<your path>**
      
      run following command lines:
      
