@@ -29,19 +29,19 @@ This program is written in Java. This object oriented language is suitable for t
      
      run following command lines:
      
-     	cd <your path>/ccp/src/com/brtr
+     	cd <your path>/ccp-master/src/com/brtr
      	javac ccp/*.java model/*.java util/*.java model/command/*.java test/*.java
-     	cd <your path>/ccp
-     	java -cp <your path>/ccp/src/ com.brtr.ccp.CreditSystem input.txt
+     	cd <your path>/ccp-master
+     	java -cp <your path>/ccp-master/src/ com.brtr.ccp.CreditSystem input.txt
 
 		 
 * 3.2 Compile and run test cases
      
 
-     	cd <your path>/ccp/src/com/brtr
+     	cd <your path>/ccp-master/src/com/brtr
      	javac ccp/*.java model/*.java util/*.java model/command/*.java test/*.java
-     	cd <your path>/ccp
-     	java -cp <your path>/ccp/src/ com.brtr.test.CreditSystemTest
+     	cd <your path>/ccp-master
+     	java -cp <your path>/ccp-master/src/ com.brtr.test.CreditSystemTest
 
 			
 * 3.3 Add more test cases
