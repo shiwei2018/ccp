@@ -1,0 +1,6 @@
+Add JUJU 378734493671000 $100
+Charge JUJU $20
+Charge JUJU $80
+Credit JUJU $45
+Charge JUJU $0
+Charge JUJU $30
