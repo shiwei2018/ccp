@@ -71,3 +71,5 @@ This program is written in Java. This object oriented language is suitable for t
      7. More comprehensive credit card processing regulations(restrictions, negative balance bans, etc)
      
      8. Localization mechanism
+     
+*This program is also updated on GitHub at https://github.com/shiwei2018/ccp/
